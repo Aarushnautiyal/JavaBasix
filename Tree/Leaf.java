@@ -1,3 +1,4 @@
+package Tree;
 public class Leaf {
     int value;
     Leaf right;
