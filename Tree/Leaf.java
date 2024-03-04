@@ -1,9 +1,9 @@
 package Tree;
 public class Leaf {
-    int value;
-    Leaf right;
-    Leaf left;
-    Leaf(int value){
+    public int value;
+    public Leaf  right;
+    public Leaf left;
+    public Leaf(int value){
         this.value=value;
 
     }
